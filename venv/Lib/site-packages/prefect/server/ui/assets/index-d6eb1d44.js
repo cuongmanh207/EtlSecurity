@@ -1,0 +1,1 @@
+function s(n,e){if(e.length<n)throw new TypeError(n+" argument"+(n>1?"s":"")+" required, but only "+e.length+" present")}var o=1e3,r=3600;function t(n){return s(1,arguments),n*o}export{r as a,t as s};
